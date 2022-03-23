@@ -1,0 +1,65 @@
+[17:32:13.022] Global cache location '/Users/pberganza/Library/Caches/typescript/4.6', safe file path '/users/pberganza/documents/personal/javascript/astro/svelte-astro-issue/node_modules/.pnpm/typescript@4.6.2/node_modules/typescript/lib/typingsafelist.json', types map path /users/pberganza/documents/personal/javascript/astro/svelte-astro-issue/node_modules/.pnpm/typescript@4.6.2/node_modules/typescript/lib/typesmap.json
+[17:32:13.023] Processing cache location '/Users/pberganza/Library/Caches/typescript/4.6'
+[17:32:13.024] Trying to find '/Users/pberganza/Library/Caches/typescript/4.6/package.json'...
+[17:32:13.025] Loaded content of '/Users/pberganza/Library/Caches/typescript/4.6/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.585"},"devDependencies":{"@types/babel__code-frame":"^7.0.3","@types/babel__core":"^7.1.18","@types/babel__generator":"^7.6.4","@types/babel__template":"^7.4.1","@types/babel__traverse":"^7.14.2","@types/body-scroll-lock":"^3.1.0","@types/eslint":"^8.4.1","@types/eslint-config-prettier":"^6.11.0","@types/eslint-plugin-prettier":"^3.1.0","@types/flexsearch":"^0.7.3","@types/has-ansi":"^5.0.0","@types/html-escaper":"^3.0.0","@types/html-minifier":"^4.0.2","@types/jsdom":"^16.2.14","@types/mime":"^2.0.3","@types/object-assign":"^4.0.30","@types/opener":"^1.4.0","@types/postcss-preset-env":"^6.7.3","@types/prettier":"^2.4.4","@types/prismjs":"^1.26.0","@types/react":"^17.0.40","@types/rimraf":"^3.0.2","@types/semver":"^7.3.9","@types/sinon":"^10.0.11","@types/supports-color":"^8.1.1","@types/yargs-parser":"^21.0.0","@types/yup":"^0.29.13"}}
+[17:32:13.026] Loaded content of '/Users/pberganza/Library/Caches/typescript/4.6/package-lock.json'
+[17:32:13.054] Adding entry into typings cache: 'babel__code-frame' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/babel__code-frame/index.d.ts'
+[17:32:13.081] Adding entry into typings cache: 'babel__core' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/babel__core/index.d.ts'
+[17:32:13.093] Adding entry into typings cache: 'babel__generator' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/babel__generator/index.d.ts'
+[17:32:13.102] Adding entry into typings cache: 'babel__template' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/babel__template/index.d.ts'
+[17:32:13.117] Adding entry into typings cache: 'babel__traverse' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/babel__traverse/index.d.ts'
+[17:32:13.127] Adding entry into typings cache: 'body-scroll-lock' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/body-scroll-lock/index.d.ts'
+[17:32:13.135] Adding entry into typings cache: 'eslint' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/eslint/index.d.ts'
+[17:32:13.145] Adding entry into typings cache: 'eslint-config-prettier' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/eslint-config-prettier/index.d.ts'
+[17:32:13.157] Adding entry into typings cache: 'eslint-plugin-prettier' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/eslint-plugin-prettier/index.d.ts'
+[17:32:13.161] Adding entry into typings cache: 'flexsearch' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/flexsearch/index.d.ts'
+[17:32:13.163] Adding entry into typings cache: 'has-ansi' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/has-ansi/index.d.ts'
+[17:32:13.166] Adding entry into typings cache: 'html-escaper' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/html-escaper/index.d.ts'
+[17:32:13.170] Adding entry into typings cache: 'html-minifier' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/html-minifier/index.d.ts'
+[17:32:13.176] Adding entry into typings cache: 'jsdom' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/jsdom/index.d.ts'
+[17:32:13.176] Adding entry into typings cache: 'mime' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/mime/index.d.ts'
+[17:32:13.179] Adding entry into typings cache: 'object-assign' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/object-assign/index.d.ts'
+[17:32:13.181] Adding entry into typings cache: 'opener' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/opener/index.d.ts'
+[17:32:13.185] Adding entry into typings cache: 'postcss-preset-env' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/postcss-preset-env/index.d.ts'
+[17:32:13.187] Adding entry into typings cache: 'prettier' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/prettier/index.d.ts'
+[17:32:13.192] Adding entry into typings cache: 'prismjs' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/prismjs/index.d.ts'
+[17:32:13.196] Adding entry into typings cache: 'react' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/react/index.d.ts'
+[17:32:13.209] Adding entry into typings cache: 'rimraf' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/rimraf/index.d.ts'
+[17:32:13.215] Adding entry into typings cache: 'semver' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/semver/index.d.ts'
+[17:32:13.217] Adding entry into typings cache: 'sinon' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/sinon/index.d.ts'
+[17:32:13.222] Adding entry into typings cache: 'supports-color' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/supports-color/index.d.ts'
+[17:32:13.223] Adding entry into typings cache: 'yargs-parser' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/yargs-parser/index.d.ts'
+[17:32:13.228] Adding entry into typings cache: 'yup' => '/Users/pberganza/Library/Caches/typescript/4.6/node_modules/@types/yup/index.d.ts'
+[17:32:13.228] Finished processing cache location '/Users/pberganza/Library/Caches/typescript/4.6'
+[17:32:13.229] Process id: 5836
+[17:32:13.229] NPM location: /Users/pberganza/.volta/tools/image/node/16.13.1/bin/npm (explicit '--npmLocation' not  provided)
+[17:32:13.229] validateDefaultNpmLocation: false
+[17:32:13.229] Npm config file: /Users/pberganza/Library/Caches/typescript/4.6/package.json
+[17:32:13.229] Updating types-registry npm package...
+[17:32:13.230] Exec: /Users/pberganza/.volta/tools/image/node/16.13.1/bin/npm install --ignore-scripts types-registry@latest
+[17:32:14.669]     Succeeded. stdout:
+    
+    up to date, audited 58 packages in 1s
+
+3 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+[17:32:14.670] Updated types-registry npm package
+[17:32:16.194] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/node_modules/.pnpm/typescript@4.6.2/node_modules/typescript/lib/lib.es5.d.ts","/Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/node_modules/.pnpm/typescript@4.6.2/node_modules/typescript/lib/lib.es2015.d.ts","/Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/node_modules/.pnpm/typescript@4.6.2/node_modules/typescript/lib/lib.es2016.d.ts","/Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/node_modules/.pnpm/typescript@4.6.2/node_modules/typescript/lib/lib.dom.d.ts","/Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/node_modules/.pnpm/typescript@4.6.2/node_modules/typescript/lib/lib.dom.iterable.d.ts","/Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/node_modules/.pnpm/typescript@4.6.2/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/node_modules/.pnpm/typescript@4.6.2/node_modules/typescript/lib/lib.scripthost.d.ts","/Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/node_modules/.pnpm/typescript@4.6.2/node_modules/typescript/lib/lib.es2015.core.d.ts","/Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/node_modules/.pnpm/typescript@4.6.2/node_modules/typescript/lib/lib.es2015.collection.d.ts","/Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/node_modules/.pnpm/typescript@4.6.2/node_modules/typescript/lib/lib.es2015.generator.d.ts","/Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/node_modules/.pnpm/typescript@4.6.2/node_modules/typescript/lib/lib.es2015.iterable.d.ts","/Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/node_modules/.pnpm/typescript@4.6.2/node_modules/typescript/lib/lib.es2015.promise.d.ts","/Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/node_modules/.pnpm/typescript@4.6.2/node_modules/typescript/lib/lib.es2015.proxy.d.ts","/Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/node_modules/.pnpm/typescript@4.6.2/node_modules/typescript/lib/lib.es2015.reflect.d.ts","/Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/node_modules/.pnpm/typescript@4.6.2/node_modules/typescript/lib/lib.es2015.symbol.d.ts","/Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/node_modules/.pnpm/typescript@4.6.2/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts","/Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/node_modules/.pnpm/typescript@4.6.2/node_modules/typescript/lib/lib.es2016.array.include.d.ts","/Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/node_modules/.pnpm/typescript@4.6.2/node_modules/typescript/lib/lib.es2016.full.d.ts","/Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/src/pages/index.astro"],"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/src/pages","kind":"discover"}
+[17:32:16.216] Loaded safelist from types map file '/users/pberganza/documents/personal/javascript/astro/svelte-astro-issue/node_modules/.pnpm/typescript@4.6.2/node_modules/typescript/lib/typesmap.json'
+[17:32:16.218] Explicitly included types: []
+[17:32:16.219] Inferred typings from unresolved imports: []
+[17:32:16.219] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/src/pages/bower_components","/Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/src/pages/node_modules"]}
+[17:32:16.219] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/src/pages/bower_components","/Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/src/pages/node_modules"]}
+[17:32:16.220] DirectoryWatcher:: Added:: WatchInfo: /Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/src/pages/bower_components
+[17:32:16.220] DirectoryWatcher:: Added:: WatchInfo: /Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/src/pages/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[17:32:16.221] Elapsed:: 0.9186248779296875ms DirectoryWatcher:: Added:: WatchInfo: /Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/src/pages/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[17:32:16.221] DirectoryWatcher:: Added:: WatchInfo: /Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/src/pages/node_modules
+[17:32:16.221] DirectoryWatcher:: Added:: WatchInfo: /Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/src/pages/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[17:32:16.221] Elapsed:: 0.1338334083557129ms DirectoryWatcher:: Added:: WatchInfo: /Users/pberganza/Documents/Personal/JavaScript/Astro/svelte-astro-issue/src/pages/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[17:32:16.222] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[17:32:16.222] Response has been sent.
+[17:32:16.222] No new typings were requested as a result of typings discovery
